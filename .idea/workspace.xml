@@ -2,33 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5116faf6-ce61-47d6-b60c-50da4776305b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/img/banner-control-left.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/banner-control-right.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/banner_sprite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/download.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/friend_sprite.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/mine_sprite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/playbar_sprite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/playlist_sprite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/playpanel_bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/progress_bar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/radio_slide.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/recommend-top-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/singer_sprite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/sprite_01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/sprite_02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/sprite_button.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/sprite_button2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/sprite_cover.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/sprite_footer_01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/sprite_footer_02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/sprite_icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/sprite_icon2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/sprite_icon3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/sprite_table.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/wrap-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/craco.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/css/reset.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/css/reset.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/0.pack" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/0.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/index.pack" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/index.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/index.pack.old" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/index.pack.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.yarn-integrity" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.yarn-integrity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -160,7 +143,7 @@
       <updated>1656752468227</updated>
       <workItem from="1656752471072" duration="1597000" />
       <workItem from="1657027016853" duration="1639000" />
-      <workItem from="1657070834079" duration="306000" />
+      <workItem from="1657070834079" duration="880000" />
     </task>
     <servers />
   </component>
